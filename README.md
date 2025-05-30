@@ -5,7 +5,7 @@
 Jalankan perintah berikut untuk mengunduh installer:
 
 ```bash
-wget https://raw.githubusercontent.com/emuhib/windows.server.DO/main/windows-server-autoinstaller.sh
+wget https://raw.githubusercontent.com/ikelirawanrepo/Windows-Installer/main/windows-autoinstaller.sh
 
 ```
 
@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/emuhib/windows.server.DO/main/windows-ser
 Setelah diunduh, berikan izin agar file dapat dijalankan:
 
 ```bash
-chmod +x windows-server-autoinstaller.sh
+chmod +x windows-autoinstaller.sh
 
 ```
 
@@ -21,7 +21,7 @@ chmod +x windows-server-autoinstaller.sh
 Jalankan installer dengan perintah berikut:
 
 ```bash
-./windows-server-autoinstaller.sh
+./windows-autoinstaller.sh
 
 ```
 
