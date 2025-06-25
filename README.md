@@ -123,3 +123,4 @@ rclone copy /var/www/html/winser/windows2019.gz gdrive: --progress
 ### Catatan Penting:
 - Pastikan Anda mengganti placeholder `xxxx` dengan versi Windows yang benar.
 - Jangan lupa untuk mengganti `LINK` dengan URL file Anda yang sebenarnya.
+- Password IRTV1Milyar
